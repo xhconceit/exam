@@ -2,3 +2,15 @@
 sites/
 __pycache__/
 *.pyc
+
+# Local DSH plugin build tooling and dependency cache
+.dsh-build/
+
+# Local DSH plugin: PDF preview + notes
+tools/dsh-pdf-notes/
+
+# Generated course videos, scripts and build artifacts
+video/
+
+# Downloaded binary
+yt-dlp_macos
