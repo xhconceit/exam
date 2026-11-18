@@ -16,3 +16,6 @@ video/
 yt-dlp_macos
 /downloads/*
 
+.hf-cache/
+.ms-cache/
+tmp/
