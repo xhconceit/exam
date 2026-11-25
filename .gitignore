@@ -19,3 +19,6 @@ yt-dlp_macos
 .hf-cache/
 .ms-cache/
 tmp/
+
+# 本地核对脚本与教材 OCR 文本（可重建，不入库）
+.work/
